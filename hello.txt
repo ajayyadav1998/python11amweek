@@ -1,0 +1,4 @@
+this is the file of file handling
+i am using this file
+thanx for using
+i am appending some text in this file
